@@ -1,0 +1,17 @@
+{
+  "name": "@iarna/epub-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebecca Turner <me@re-becca.org> (http://re-becca.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.11",
+    "cheerio": "^1.0.0-rc.2",
+    "xml2js": "^0.4.19"
+  }
+}
